@@ -1,0 +1,80 @@
+{
+  "scale": 0.1,
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "foliage_color": -8618884,
+    "grass_color": -8618884,
+    "sky_color": -3881788,
+    "fog_color": -3881788,
+    "water_color": -15974842,
+    "water_fog_color": -15974842
+  },
+  "surface_builder": "derecs_war_torn_biomes:war_torn_ice_plains",
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [
+      "minecraft:monster_room"
+    ],
+    [],
+    [],
+    [
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:disk_clay"
+    ],
+    [],
+    [
+      "minecraft:oak",
+      "minecraft:oak_bees_0002",
+      "minecraft:oak_bees_002",
+      "minecraft:oak_bees_005"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ],
+  "starts": [
+    "minecraft:mansion",
+    "minecraft:mineshaft",
+    "minecraft:stronghold",
+    "minecraft:pillager_outpost",
+    "minecraft:ruined_portal"
+  ],
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "player_spawn_friendly": false,
+  "precipitation": "snow",
+  "temperature": 0.1,
+  "downfall": 0.3,
+  "category": "plains",
+  "depth": 0.1
+}

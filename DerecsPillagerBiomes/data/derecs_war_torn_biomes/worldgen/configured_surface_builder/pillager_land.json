@@ -1,0 +1,14 @@
+{
+  "config": {
+    "top_material": {
+      "Name": "minecraft:grass_block"
+    },
+    "under_material": {
+      "Name": "minecraft:cobblestone"
+    },
+    "underwater_material": {
+      "Name": "minecraft:cobblestone"
+    }
+  },
+  "type": "minecraft:default"
+}

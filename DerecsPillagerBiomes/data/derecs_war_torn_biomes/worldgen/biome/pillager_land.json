@@ -1,0 +1,90 @@
+{
+  "scale": 0.3,
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "foliage_color": -11905972,
+    "grass_color": -11905972,
+    "sky_color": 7972607,
+    "fog_color": 12638463,
+    "water_color": -10724260,
+    "water_fog_color": -10724260
+  },
+  "surface_builder": "derecs_war_torn_biomes:pillager_land",
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [
+      "minecraft:lake_water",
+      "minecraft:lake_lava"
+    ],
+    [],
+    [
+      "minecraft:monster_room"
+    ],
+    [],
+    [],
+    [
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:disk_sand",
+      "minecraft:disk_gravel",
+      "minecraft:disk_clay"
+    ],
+    [],
+    [
+      "minecraft:oak",
+      "minecraft:oak_bees_0002",
+      "minecraft:oak_bees_002",
+      "minecraft:oak_bees_005",
+      "minecraft:flower_default",
+      "minecraft:patch_grass_forest",
+      "minecraft:brown_mushroom_normal",
+      "minecraft:red_mushroom_normal",
+      "minecraft:mushroom_field_vegetation"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ],
+  "starts": [
+    "minecraft:mansion",
+    "minecraft:mineshaft",
+    "minecraft:stronghold",
+    "minecraft:pillager_outpost",
+    "minecraft:ruined_portal"
+  ],
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "player_spawn_friendly": false,
+  "precipitation": "rain",
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "category": "plains",
+  "depth": 0.2
+}
