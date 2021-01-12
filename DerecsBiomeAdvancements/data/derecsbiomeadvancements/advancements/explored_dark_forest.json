@@ -3,7 +3,7 @@
     "icon": {
       "item": "minecraft:dark_oak_log"
     },
-    "title": "The Dark Forest",
+    "title": "Pillager Turf",
     "description": "spooky",
     "frame": "task",
     "show_toast": true,

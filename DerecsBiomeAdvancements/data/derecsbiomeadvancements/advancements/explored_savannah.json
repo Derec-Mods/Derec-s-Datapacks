@@ -3,8 +3,8 @@
     "icon": {
       "item": "minecraft:acacia_sapling"
     },
-    "title": "Sir, there has been a murder...",
-    "description": "and you are a suspect. (Creed proceedes to drive away)",
+    "title": "The Outback",
+    "description": "There has been a murder... and you are a suspect. (Creed proceedes to drive away)",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

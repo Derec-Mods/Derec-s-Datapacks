@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:salmon"
+      "item": "minecraft:seagrass"
     },
-    "title": "Tahm Kench",
-    "description": "The river king",
+    "title": "Mainstream",
+    "description": "get it?",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

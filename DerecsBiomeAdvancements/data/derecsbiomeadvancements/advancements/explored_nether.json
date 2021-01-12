@@ -14,7 +14,7 @@
     "explored_nether": {
       "trigger": "minecraft:location",
       "conditions": {
-        "biome": "plains"
+        "biome": "nether_wastes"
       }
     }
   },

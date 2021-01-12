@@ -3,8 +3,8 @@
     "icon": {
       "item": "minecraft:white_terracotta"
     },
-    "title": "A potter's dream",
-    "description": "So much clay",
+    "title": "Terracotta Galore",
+    "description": "So much clay!",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
