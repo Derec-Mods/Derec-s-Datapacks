@@ -1,0 +1,33 @@
+{
+  "group": "derecs_craftable_cobwebs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "141",
+    "618"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "minecraft:air"
+    },
+    "2": {
+      "item": "minecraft:string"
+    },
+    "4": {
+      "item": "minecraft:string"
+    },
+    "6": {
+      "item": "minecraft:string"
+    },
+    "8": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "minecraft:cobweb",
+    "count": 1
+  }
+}
