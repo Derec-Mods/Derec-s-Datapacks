@@ -1,0 +1,9 @@
+{
+  "group": "stone_to_gravel",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:stone"
+  },
+  "result": "minecraft:gravel"
+}
